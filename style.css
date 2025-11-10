@@ -17,6 +17,7 @@ body {
     flex-wrap: wrap;
     gap: 3rem;
 }
+/* Creates a class named navbar with the following properties: dark gray color, padding, and centered. */
 
 .logo {
     color: #fff;
